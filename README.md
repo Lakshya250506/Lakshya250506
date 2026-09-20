@@ -18,16 +18,6 @@ I actively practice algorithmic problem solving and data structures in **C++**:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshya250506&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya250506&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya250506&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
 ## 📫 Connect With Me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lgarg2505@gmail.com)
