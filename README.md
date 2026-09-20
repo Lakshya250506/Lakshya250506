@@ -20,10 +20,9 @@ I actively practice algorithmic problem solving and data structures in **C++**:
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshya250506&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya250506&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshya250506&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya250506&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
-
 <br>
 
 <div align="center">
