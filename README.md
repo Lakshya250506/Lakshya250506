@@ -31,6 +31,7 @@ I actively practice algorithmic problem solving and data structures in **C++**:
 </div>
 
 ## 📫 Connect With Me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lgarg2505@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-garg-798a00396/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[YOUR_CODEFORCES_HANDLE](https://codeforces.com/profile/Lakshya2505))
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Lakshya2505)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c00)](https://leetcode.com/u/Lakshya_2505/)
