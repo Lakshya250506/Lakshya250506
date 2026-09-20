@@ -1,7 +1,7 @@
 # Hi, I'm Lakshya 👋
 
 ## 💫 About Me:
-🎓 2nd-year B.Tech-M.Tech Integrated CSE student at **LNMIIT Jaipur** ('28)
+🎓 2nd-year B.Tech-M.Tech Integrated CSE student at **LNMIIT Jaipur** ('30)
 🚀 Passionate about competitive programming and building scalable software
 🌱 Currently learning **Full-Stack Web Development**
 💻 Always eager to learn new technologies and build real-world projects
